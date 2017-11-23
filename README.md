@@ -1,23 +1,43 @@
-# voice-assistant-apps-start
-Useful links and advices for beginners in voice assistant apps development
+# Converstional Apps Home
+Place where you can find **links**, **communities** and **events** about conversational apps.
 
-## Tutorials when you can start
+## Where to start?
+#### General
+Links goes here
 
-No matter which you start, i highly recommend you to start with [ApiAi](https://api.ai/) or [Alexa Skills Kit](https://developer.amazon.com/alexa). It is easiest way to implement understanding of user intention from raw text input. ApiAi easy integrates with both assistant platforms.
+#### Google Actions
+Links goes here
 
-### Google Assistant
-- [Video tutorials with links on codelabs and articles about Google Assistant](https://www.youtube.com/playlist?list=PLOU2XLYxmsILvfJcIASBDbgfxloFz_XsU)
-- [Google Assistant codelabs](https://codelabs.developers.google.com/?cat=Assistant)
-- [Google Assistant Apps and ApiAi GDD talk](https://youtu.be/rdXR78bvXts)
+#### Alexa Skills
+Links goes here
 
-### Amazon Alexa
-- [Alexa start tutorial](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
-- [Amazon Alexa start tutorials](https://github.com/bignerdranch/developing-alexa-skills-solutions)
-- [Alexa video tutorials](https://www.youtube.com/playlist?list=PL2KJmkHeYQTO6ci5KF08mvHYdAZu2jgkJ)
 
-### Communities
-#### Global
-- [Alexa Slack](http://www.alexaslack.com/)
-- [Google Home Slack](http://googleslack.com/)
-#### Local
-- [Kaliningrad voice app developers telegram group](https://t.me/joinchat/A5zP3EGS8tIuTC2Htl4PnQ)
+
+## Communities
+#### General
+Links goes here
+
+#### Google Actions
+Links goes here
+
+#### Alexa Skills
+Links goes here
+
+
+
+## Tutorials, Manuals and other stuff
+#### General
+Links goes here
+
+#### Google Actions
+Links goes here
+
+#### Alexa Skills
+Links goes here
+
+## Events
+#### Google Actions
+Links goes here
+
+#### Alexa Skills
+Links goes here
